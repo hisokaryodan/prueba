@@ -1,5 +1,14 @@
 <?php
 
-echo "hihihihi";
+class natha {
 
-echo "cambio";
+	public function natha1(){
+
+
+	}
+}
+
+class camilo {
+
+	
+}
